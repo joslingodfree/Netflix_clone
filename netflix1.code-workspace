@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../uber"
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../images - Copy"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "netflix1"
+	}
+}
